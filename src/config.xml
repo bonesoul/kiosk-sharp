@@ -1,0 +1,786 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<config>
+<item>
+	<label>ASKERLİK İşlemleri</label>
+	<preload_movie>askerlik.swf</preload_movie>
+		<childs>
+			<item>
+				<label>Yedek Subaylık İşlemleri</label>
+					<childs>
+						<item>
+						<label>Erken Sevk İşlemleri</label>
+						<url>https://www.turkiye.gov.tr/portal/dt?channel=icerik&amp;icerik.kat=vatanda%C5%9F/askerlik+ve+seferberlik/Yedek+Subayl%C4%B1k+%C4%B0%C5%9Flemleri/Erken+Sevk+%C4%B0%C5%9Flemleri</url>
+						</item>
+						<item>
+						<label>Yedek Subay Aday Adaylığı</label>
+						<url>https://www.turkiye.gov.tr/portal/dt?channel=icerik&amp;icerik.kat=vatanda%C5%9F/askerlik+ve+seferberlik/Yedek+Subayl%C4%B1k+%C4%B0%C5%9Flemleri/Yedek+Subay+Aday+Adayl%C4%B1%C4%9F%C4%B1</url>
+						</item>	
+						<item>
+						<label>Sevk Tehir İşlemleri</label>
+						<url>https://www.turkiye.gov.tr/portal/dt?channel=icerik&amp;icerik.kat=vatanda%C5%9F/askerlik+ve+seferberlik/Yedek+Subayl%C4%B1k+%C4%B0%C5%9Flemleri/Sevk+Tehir+%C4%B0%C5%9Flemleri</url>
+						</item>	
+						<item>
+						<label>Test ve Mülakat İşlemleri</label>
+						<url>https://www.turkiye.gov.tr/portal/dt?channel=icerik&amp;icerik.kat=vatanda%C5%9F/askerlik+ve+seferberlik/Yedek+Subayl%C4%B1k+%C4%B0%C5%9Flemleri/Test+ve+M%C3%BClakat+%C4%B0%C5%9Flemleri</url>
+						</item>	
+						<item>
+						<label>Yoklama ve Bakaya İşlemleri</label>
+						<url>https://www.turkiye.gov.tr/portal/dt?channel=icerik&amp;icerik.kat=vatanda%C5%9F/askerlik+ve+seferberlik/Yedek+Subayl%C4%B1k+%C4%B0%C5%9Flemleri/Yoklama+ve+Bakayal%C4%B1k+%C4%B0%C5%9Flemleri</url>
+						</item>
+						<item>
+						<label>Sevk İşlemleri</label>
+						<url>https://www.turkiye.gov.tr/portal/dt?channel=icerik&amp;icerik.kat=vatanda%C5%9F/askerlik+ve+seferberlik/Yedek+Subayl%C4%B1k+%C4%B0%C5%9Flemleri/Sevk+%C4%B0%C5%9Flemleri</url>
+						</item>
+						<item>
+						<label>Terhis ve Yedeklik Dönemi</label>
+						<url>https://www.turkiye.gov.tr/portal/dt?channel=icerik&amp;icerik.kat=vatanda%C5%9F/askerlik+ve+seferberlik/Yedek+Subayl%C4%B1k+%C4%B0%C5%9Flemleri/Terhis+ve+Yedeklik+D%C3%B6nemi</url>
+						</item>						
+					</childs>
+			</item>
+			<item>
+				<label>Yurt Dışı İşlemleri</label>
+					<childs>
+						<item>
+						<label>Ertelemeler</label>
+						<url>https://www.turkiye.gov.tr/portal/dt?channel=icerik&amp;icerik.kat=vatanda%C5%9F/askerlik+ve+seferberlik/Yurt+D%C4%B1%C5%9F%C4%B1+%C4%B0%C5%9Flemleri/Ertelemeler</url>
+						</item>
+						<item>
+						<label>Ertelemeye Tabi Ülkeler</label>
+						<url>https://www.turkiye.gov.tr/portal/dt?channel=icerik&amp;icerik.kat=vatanda%C5%9F/askerlik+ve+seferberlik/Yurt+D%C4%B1%C5%9F%C4%B1+%C4%B0%C5%9Flemleri/Ertelemeye+Tabi+%C3%9Clkeler</url>
+						</item>	
+						<item>
+						<label>Gerekli Belgeler</label>
+						<url>https://www.turkiye.gov.tr/portal/dt?channel=icerik&amp;icerik.kat=vatanda%C5%9F/askerlik+ve+seferberlik/Yurt+D%C4%B1%C5%9F%C4%B1+%C4%B0%C5%9Flemleri/Gerekli+Belgeler</url>
+						</item>	
+					</childs>
+			</item>
+			<item>
+				<label>Genel Askerlik İşlemleri</label>
+					<url>https://www.turkiye.gov.tr/portal/dt?channel=icerik&amp;icerik.kat=vatanda%C5%9F/askerlik+ve+seferberlik/Askerlik+%C4%B0%C5%9Flemleri/Gerekli+Belgeler</url>
+			</item>
+			<item>
+				<label>Şehit ve Gazilerimiz</label>
+					<childs>
+						<item>
+						<label>Madalya</label>
+						<url>https://www.turkiye.gov.tr/portal/dt?channel=icerik&amp;icerik.kat=vatanda%C5%9F/askerlik+ve+seferberlik/%C5%9Eehit+ve+Gazilerimiz/Madalya</url>
+						</item>
+						<item>
+						<label>Yaralı-Sakat İşlemleri</label>
+						<url>https://www.turkiye.gov.tr/portal/dt?channel=icerik&amp;icerik.kat=vatanda%C5%9F/askerlik+ve+seferberlik/%C5%9Eehit+ve+Gazilerimiz/Yaral%C4%B1-Sakat+%C4%B0%C5%9Flemleri</url>
+						</item>	
+						<item>
+						<label>Şehit ve Ailelerine Ait İşlemler</label>
+						<url>https://www.turkiye.gov.tr/portal/dt?channel=icerik&amp;icerik.kat=vatanda%C5%9F/askerlik+ve+seferberlik/%C5%9Eehit+ve+Gazilerimiz/%C5%9Eehit+ve+%C5%9Eehit+Varislerine+ait+%C4%B0%C5%9Flemler</url>
+						</item>	
+					</childs>
+			</item>
+			<item>
+				<label>Dövizle Askerlik</label>
+					<url>https://www.turkiye.gov.tr/portal/dt?channel=icerik&amp;icerik.kat=vatanda%C5%9F/askerlik+ve+seferberlik/D%C3%B6vizle+Askerlik/D%C3%B6vizle+Askerlik+Hizmeti+ve+Yararlanma+%C5%9Eartlar%C4%B1</url>
+			</item>
+			<item>
+				<label>Er İşlemleri</label>
+					<childs>
+						<item>
+						<label>Muvazzaflık Dönemi</label>
+						<url>https://www.turkiye.gov.tr/portal/dt?channel=icerik&amp;icerik.kat=vatanda%C5%9F/askerlik+ve+seferberlik/Er+%C4%B0%C5%9Flemleri/Muvazzafl%C4%B1k+D%C3%B6nemi</url>
+						</item>
+						<item>
+						<label>Erteleme İşlemleri</label>
+						<url>https://www.turkiye.gov.tr/portal/dt?channel=icerik&amp;icerik.kat=vatanda%C5%9F/askerlik+ve+seferberlik/Er+%C4%B0%C5%9Flemleri/Erteleme+%C4%B0%C5%9Flemleri</url>
+						</item>	
+						<item>
+						<label>Muafiyetler</label>
+						<url>https://www.turkiye.gov.tr/portal/dt?channel=icerik&amp;icerik.kat=vatanda%C5%9F/askerlik+ve+seferberlik/Er+%C4%B0%C5%9Flemleri/Muafiyetler</url>
+						</item>	
+						<item>
+						<label>Yoklama Dönemi</label>
+						<url>https://www.turkiye.gov.tr/portal/dt?channel=icerik&amp;icerik.kat=vatanda%C5%9F/askerlik+ve+seferberlik/Er+%C4%B0%C5%9Flemleri/Yoklama+D%C3%B6nemi</url>
+						</item>	
+						<item>
+						<label>Yedeklik Dönemi</label>
+						<url>https://www.turkiye.gov.tr/portal/dt?channel=icerik&amp;icerik.kat=vatanda%C5%9F/askerlik+ve+seferberlik/Er+%C4%B0%C5%9Flemleri/Yedeklik+D%C3%B6nemi</url>
+						</item>	
+					</childs>
+			</item>
+			<item>
+				<label>Nakdi Tazminat</label>
+				<url>https://www.turkiye.gov.tr/portal/dt?channel=icerik&amp;icerik.kat=vatanda%C5%9F/askerlik+ve+seferberlik/Nakdi+Tazminat/Nakdi+Tazminat+%C4%B0%C5%9Flemleri</url>
+			</item>
+			<item>
+				<label>Seferberlik </label>
+				<url>https://www.turkiye.gov.tr/portal/dt?channel=icerik&amp;icerik.kat=vatanda%C5%9F/askerlik+ve+seferberlik/Seferberlik/Personel+Seferberli%C4%9Fi</url>
+			</item>
+		</childs>
+</item>  
+<item>
+    <label>TRAFİK İşlemleri</label>
+	<preload_movie>trafik.swf</preload_movie>
+    	<childs>
+    		<item>
+     			  <label>Trafik Güvenliği</label>
+						<childs>
+        					  <item>
+          	  	 			  <label>İlk Yardım</label>
+         	  	 			  <url>https://www.turkiye.gov.tr/portal/dt?channel=icerik&amp;icerik.kat=vatanda%C5%9F/trafik/Trafik+G%C3%BCvenli%C4%9Fi/%C4%B0lk+Yard%C4%B1m</url>
+        	  	 			  </item>
+         	 	 			  <item>
+							  <label>Çocuklar İçin Trafik Güvenliği</label>
+							  <url>https://www.turkiye.gov.tr/portal/dt?channel=icerik&amp;icerik.kat=vatanda%C5%9F/trafik/Trafik+G%C3%BCvenli%C4%9Fi/%C3%87ocuklar+%C4%B0%C3%A7in+Trafik+G%C3%BCvenli%C4%9Fi</url>
+							  </item>
+							  <item>
+							  <label>Kazalardan Korunma ve Cezalar</label>
+							  <url>https://www.turkiye.gov.tr/portal/dt?channel=icerik&amp;icerik.kat=vatanda%C5%9F/trafik/Trafik+G%C3%BCvenli%C4%9Fi/Kazalardan+Korunma+ve+Cezalar</url>
+							  </item>
+        				</childs>
+      	      </item>  
+      		<item>
+      				<label>Kara Yolları</label>
+      					<childs>
+								<item>
+								<label>Yol Durumu</label>
+								<url>https://www.turkiye.gov.tr/portal/dt?channel=icerik&amp;icerik.kat=vatanda%C5%9F/trafik/Kara+Yollar%C4%B1/Yol+Durumu</url>
+								</item>
+								<item>
+								<label>Şehir Haritaları</label>
+								<url>https://www.turkiye.gov.tr/portal/dt?channel=icerik&amp;icerik.kat=vatanda%C5%9F/trafik/Kara+Yollar%C4%B1/%C5%9Eehir+Haritalar%C4%B1</url>
+								</item>
+						</childs>
+			</item>
+			<item>
+				<label>Sürücü Belgesi İşlemleri</label>
+ 						<childs>
+								<item>
+								<label>Başvuru İşlemleri</label>
+								<url>https://www.turkiye.gov.tr/portal/dt?channel=icerik&amp;icerik.kat=vatanda%C5%9F/trafik/S%C3%BCr%C3%BCc%C3%BC+Belgesi+%C4%B0%C5%9Flemleri/S%C3%BCr%C3%BCc%C3%BC+Belgesi+Ba%C5%9Fvuru+%C4%B0%C5%9Flemleri</url>
+								</item>
+								<item>
+								<label>Ehliyet Sınıfları</label>            
+								<url>https://www.turkiye.gov.tr/portal/dt?channel=icerik&amp;icerik.kat=vatanda%C5%9F/trafik/S%C3%BCr%C3%BCc%C3%BC+Belgesi+%C4%B0%C5%9Flemleri/Ehliyet+S%C4%B1n%C4%B1flar%C4%B1</url>
+								</item>
+						</childs>
+			</item>
+			<item>
+				<label>Motorlu Taşıtlar İşlemleri</label>
+						<childs>
+							<item>
+							<label>Araç Tescil İşlemleri</label>
+							<url>https://www.turkiye.gov.tr/portal/dt?channel=icerik&amp;icerik.kat=vatanda%C5%9F/trafik/Motorlu+Ta%C5%9F%C4%B1t+%C4%B0%C5%9Flemleri/Ara%C3%A7+Tescil+%C4%B0%C5%9Flemleri</url>
+							</item>
+							<item>
+							<label>Araç ve Ceza Puan Sorgulama</label>
+							<url>https://www.turkiye.gov.tr/portal/dt?channel=icerik&amp;icerik.kat=vatanda%C5%9F/trafik/Motorlu+Ta%C5%9F%C4%B1t+%C4%B0%C5%9Flemleri/Ara%C3%A7+ve+Ceza+Puan%C4%B1+Sorgulama</url>
+							</item>
+							<item>
+							<label>Motorlu Taşıtlar Vergi İşlemleri</label>            
+							<url>https://www.turkiye.gov.tr/portal/dt?channel=icerik&amp;icerik.kat=vatanda%C5%9F/trafik/Motorlu+Ta%C5%9F%C4%B1t+%C4%B0%C5%9Flemleri/Motorlu+Ta%C5%9F%C4%B1tlar+i%C3%A7in+Vergi+%C4%B0%C5%9Flemleri</url>
+							</item>
+							<item>
+							<label>Araç Muayene İşlemleri</label>            
+							<url>https://www.turkiye.gov.tr/portal/dt?channel=icerik&amp;icerik.kat=vatanda%C5%9F/trafik/Motorlu+Ta%C5%9F%C4%B1t+%C4%B0%C5%9Flemleri/Ara%C3%A7+Muayene+%C4%B0%C5%9Flemleri</url>
+							</item>
+        				</childs>
+      		</item>
+    	</childs>
+</item>
+<item>
+    	<label>Sigorta Hizmeti</label>
+		<preload_movie>sigorta.swf</preload_movie>
+    			<childs>
+      				<item>
+       				<label>Sigortalı Rehberi</label>
+        			<url>https://www.turkiye.gov.tr/portal/dt?channel=icerik&amp;icerik.kat=vatanda%C5%9F/sosyal+g%C3%BCvenlik/Sigortal%C4%B1+%C3%87al%C4%B1%C5%9Fanlar+i%C3%A7in+SSK+%C4%B0%C5%9Flemleri/Sigortal%C4%B1+Rehberi</url>
+      				</item>
+					<item>
+      				<label>Memur Rehberi</label>
+        			<url>https://www.turkiye.gov.tr/portal/dt?channel=icerik&amp;icerik.kat=vatanda%C5%9F/sosyal+g%C3%BCvenlik/Kamu+%C3%87al%C4%B1%C5%9Fanlar%C4%B1+i%C3%A7in+Emekli+Sand%C4%B1%C4%9F%C4%B1+%C4%B0%C5%9Flemleri/Memur+Rehberi</url>
+      				</item>
+					<item>
+       				<label>Serbest Çalışan Rehberi</label>
+        			<url>https://www.turkiye.gov.tr/portal/dt?channel=icerik&amp;icerik.kat=vatanda%C5%9F/sosyal+g%C3%BCvenlik/Serbest+%C3%87al%C4%B1%C5%9Fanlar+i%C3%A7in+Ba%C4%9F-Kur+%C4%B0%C5%9Flemleri/Serbest+%C3%87al%C4%B1%C5%9Fan+Rehberi</url>
+      				</item>
+	  				<item>
+        			<label>Form ve Dilekçeler</label>
+       				<url>https://www.turkiye.gov.tr/portal/dt?channel=icerik&amp;icerik.kat=vatanda%C5%9F/sosyal+g%C3%BCvenlik/Form+ve+Dilek%C3%A7eler/Form+ve+Dilek%C3%A7eler</url>
+      				</item>
+    			</childs>
+</item>
+<item>
+    <label>SAĞLIK İşlemleri</label>
+	<preload_movie>saglik.swf</preload_movie>
+    	<childs>
+      		<item>
+       			<label>Aile Sağlığı</label>
+        			<childs>
+          					<item>
+            				<label>Süt İzni</label>            
+							<url>https://www.turkiye.gov.tr/portal/dt?channel=icerik&amp;icerik.kat=vatanda%C5%9F/sa%C4%9Fl%C4%B1k/Aile+Sa%C4%9Fl%C4%B1%C4%9F%C4%B1/S%C3%BCt+%C4%B0zni</url>
+							</item>
+							<item>
+							<label>Doğum İzni</label>            
+							<url>https://www.turkiye.gov.tr/portal/dt?channel=icerik&amp;icerik.kat=vatanda%C5%9F/sa%C4%9Fl%C4%B1k/Aile+Sa%C4%9Fl%C4%B1%C4%9F%C4%B1/Do%C4%9Fum+%C4%B0zni</url>
+							</item>
+							<item>
+							<label>Çocuk Sağlığı</label>            
+							<url>https://www.turkiye.gov.tr/portal/dt?channel=icerik&amp;icerik.kat=vatanda%C5%9F/sa%C4%9Fl%C4%B1k/Aile+Sa%C4%9Fl%C4%B1%C4%9F%C4%B1/%C3%87ocuk+Sa%C4%9Fl%C4%B1%C4%9F%C4%B1+ve+G%C3%BCvenli%C4%9Fi</url>
+							</item>
+							<item>
+							<label>Aile Hekimliği</label>            
+							<url>https://www.turkiye.gov.tr/portal/dt?channel=icerik&amp;icerik.kat=vatanda%C5%9F/sa%C4%9Fl%C4%B1k/Aile+Sa%C4%9Fl%C4%B1%C4%9F%C4%B1/Aile+Hekimli%C4%9Fi</url>
+							</item>
+					</childs>
+      		</item>
+      		<item>
+        		<label>İlaç ve Tıbbı Malzeme</label>
+       				<childs>
+							<item>
+							<label>Ulusal Bilgi Bankası</label>            
+							<url>https://www.turkiye.gov.tr/portal/dt?channel=icerik&amp;icerik.kat=vatanda%C5%9F/sa%C4%9Fl%C4%B1k/%C4%B0la%C3%A7+ve+T%C4%B1bbi+Malzemeler/%C4%B0la%C3%A7+ve+T%C4%B1bbi+Cihazlar+Ulusal+Bilgi+Bankas%C4%B1</url>
+							</item>
+							<item>
+							<label>Optik ve Protez Hizmetler</label>            
+							<url>https://www.turkiye.gov.tr/portal/dt?channel=icerik&amp;icerik.kat=vatanda%C5%9F/sa%C4%9Fl%C4%B1k/%C4%B0la%C3%A7+ve+T%C4%B1bbi+Malzemeler/Optik+ve+Protez+Hizmetleri</url>
+							</item>
+        			</childs>
+      		</item>
+      		<item>
+        		<label>Toplum Sağlığı</label>
+        			<childs>
+						 	<item>
+							<label>Hasta Hakları</label>            
+							<url>https://www.turkiye.gov.tr/portal/dt?channel=icerik&amp;icerik.kat=vatanda%C5%9F/sa%C4%9Fl%C4%B1k/Toplum+Sa%C4%9Fl%C4%B1%C4%9F%C4%B1/Hasta+Haklar%C4%B1</url>
+						 	</item>
+							<item>
+							<label>Yeşil Kart</label>            
+							<url>https://www.turkiye.gov.tr/portal/dt?channel=icerik&amp;icerik.kat=vatanda%C5%9F/sa%C4%9Fl%C4%B1k/Toplum+Sa%C4%9Fl%C4%B1%C4%9F%C4%B1/Ye%C5%9Fil+Kart</url>
+							</item>
+							<item>
+							<label>Sağlıklı Yaşam Programları</label>            
+							<url>https://www.turkiye.gov.tr/portal/dt?channel=icerik&amp;icerik.kat=vatanda%C5%9F/sa%C4%9Fl%C4%B1k/Toplum+Sa%C4%9Fl%C4%B1%C4%9F%C4%B1/Sa%C4%9Fl%C4%B1kl%C4%B1+Ya%C5%9Fam+Programlar%C4%B1</url>
+							</item>
+							<item>
+							<label>Madde Bağımlılığı</label>            
+							<url>https://www.turkiye.gov.tr/portal/dt?channel=icerik&amp;icerik.kat=vatanda%C5%9F/sa%C4%9Fl%C4%B1k/Toplum+Sa%C4%9Fl%C4%B1%C4%9F%C4%B1/Madde+Ba%C4%9F%C4%B1ml%C4%B1l%C4%B1%C4%9F%C4%B1</url>
+							</item>
+							<item>
+							<label>Sağlık Ocakları ve Poliklinikler</label>            
+							<url>https://www.turkiye.gov.tr/portal/dt?channel=icerik&amp;icerik.kat=vatanda%C5%9F/sa%C4%9Fl%C4%B1k/Toplum+Sa%C4%9Fl%C4%B1%C4%9F%C4%B1/Sa%C4%9Fl%C4%B1k+Ocaklar%C4%B1+ve+Semt+Poliklinikleri</url>
+							</item>
+							<item>
+							<label>Toplum Sağlık Merkezleri</label>            
+							<url>https://www.turkiye.gov.tr/portal/dt?channel=icerik&amp;icerik.kat=vatanda%C5%9F/sa%C4%9Fl%C4%B1k/Toplum+Sa%C4%9Fl%C4%B1%C4%9F%C4%B1/Toplum+Sa%C4%9Fl%C4%B1k+Merkezleri</url>
+							</item>
+							<item>
+							<label>Acil Servisler</label>            
+							<url>https://www.turkiye.gov.tr/portal/dt?channel=icerik&amp;icerik.kat=vatanda%C5%9F/sa%C4%9Fl%C4%B1k/Toplum+Sa%C4%9Fl%C4%B1%C4%9F%C4%B1/Acil+Servisler</url>
+							</item>
+							<item>
+							<label>Organ Bağışı</label>            
+							<url>https://www.turkiye.gov.tr/portal/dt?channel=icerik&amp;icerik.kat=vatanda%C5%9F/sa%C4%9Fl%C4%B1k/Toplum+Sa%C4%9Fl%C4%B1%C4%9F%C4%B1/Organ+Ba%C4%9F%C4%B1%C5%9F%C4%B1</url>
+							</item>
+							<item>
+							<label>Analiz ve Testler</label>            
+							<url>https://www.turkiye.gov.tr/portal/dt?channel=icerik&amp;icerik.kat=vatanda%C5%9F/sa%C4%9Fl%C4%B1k/Toplum+Sa%C4%9Fl%C4%B1%C4%9F%C4%B1/Analiz+ve+Testler</url>
+							</item>
+							<item>
+							<label>Hastaneler</label>
+							<url>https://www.turkiye.gov.tr/portal/dt?channel=icerik&amp;icerik.kat=vatanda%C5%9F/sa%C4%9Fl%C4%B1k/Toplum+Sa%C4%9Fl%C4%B1%C4%9F%C4%B1/Hastaneler</url>
+						  </item>
+        			</childs>
+      		</item>
+      		<item>
+        		<label>Sosyal Güvenlik Sağlık Hizmetleri</label>
+        			<childs>
+							<item>
+							<label>Sağlık Yardımlarından Yararlanma</label>            
+							<url>https://www.turkiye.gov.tr/portal/dt?channel=icerik&amp;icerik.kat=vatanda%C5%9F/sa%C4%9Fl%C4%B1k/Sosyal+G%C3%BCvenlik+Sa%C4%9Fl%C4%B1k+Hizmetleri/Sa%C4%9Fl%C4%B1k+Yard%C4%B1mlar%C4%B1ndan+Yararlanma+Ko%C5%9Fullar%C4%B1</url>
+							</item>
+							<item>
+							<label>Sağlık Karnesi İşlemleri</label>            
+							<url>https://www.turkiye.gov.tr/portal/dt?channel=icerik&amp;icerik.kat=vatanda%C5%9F/sa%C4%9Fl%C4%B1k/Sosyal+G%C3%BCvenlik+Sa%C4%9Fl%C4%B1k+Hizmetleri/Sa%C4%9Fl%C4%B1k+Karnesi+%C4%B0%C5%9Flemleri</url>
+							</item>
+							<item>
+							<label>Tıbbı Araç-Gereçlerin Sağlanması</label>            
+							<url>https://www.turkiye.gov.tr/portal/dt?channel=icerik&amp;icerik.kat=vatanda%C5%9F/sa%C4%9Fl%C4%B1k/Sosyal+G%C3%BCvenlik+Sa%C4%9Fl%C4%B1k+Hizmetleri/T%C4%B1bbi+Ara%C3%A7+ve+Gere%C3%A7lerin+Sa%C4%9Flanmas%C4%B1</url>
+							</item>
+							<item>
+							<label>Yurt Dışında Tedavi İşlemleri</label>            
+							<url>https://www.turkiye.gov.tr/portal/dt?channel=icerik&amp;icerik.kat=vatanda%C5%9F/sa%C4%9Fl%C4%B1k/Sosyal+G%C3%BCvenlik+Sa%C4%9Fl%C4%B1k+Hizmetleri/Yurt+D%C4%B1%C5%9F%C4%B1nda+Tedavi+%C4%B0%C5%9Flemleri</url>
+							</item>
+							<item>
+							<label>Eczane İşlemleri</label>            
+							<url>https://www.turkiye.gov.tr/portal/dt?channel=icerik&amp;icerik.kat=vatanda%C5%9F/sa%C4%9Fl%C4%B1k/Sosyal+G%C3%BCvenlik+Sa%C4%9Fl%C4%B1k+Hizmetleri/Eczane+%C4%B0%C5%9Flemleri</url>
+							</item>
+							<item>
+							<label>İşyeri Hekimliği</label>            
+							<url>https://www.turkiye.gov.tr/portal/dt?channel=icerik&amp;icerik.kat=vatanda%C5%9F/sa%C4%9Fl%C4%B1k/Sosyal+G%C3%BCvenlik+Sa%C4%9Fl%C4%B1k+Hizmetleri/%C4%B0%C5%9Fyeri+Hekimli%C4%9Fi</url>
+							</item>
+        			</childs>
+      		</item>
+      		<item>
+        		<label>Aile Planlaması</label>
+        			<childs>
+							<item>
+							<label>Aile Planlama Merkezleri</label>            
+							<url>https://www.turkiye.gov.tr/portal/dt?channel=icerik&amp;icerik.kat=vatanda%C5%9F/sa%C4%9Fl%C4%B1k/Aile+Planlamas%C4%B1/Aile+Planlamas%C4%B1+Merkezleri</url>
+							</item>
+							<item>
+							<label>Tüp Bebek Merkezleri</label>            
+							<url>https://www.turkiye.gov.tr/portal/dt?channel=icerik&amp;icerik.kat=vatanda%C5%9F/sa%C4%9Fl%C4%B1k/Aile+Planlamas%C4%B1/Ruhsatl%C4%B1+T%C3%BCp+Bebek+Merkezleri</url>
+							</item>
+        			</childs>
+      		</item>
+    	</childs>
+</item>  
+<item>
+    <label>İŞ-KARİYER İşlemleri</label>
+	<preload_movie>is.swf</preload_movie>
+    	<childs>
+      		<item>
+        		<label>İş Arama</label>
+        			<childs>
+          					<item>
+							<label>İş Arama Teknikleri</label>            
+							<url>https://www.turkiye.gov.tr/portal/dt?channel=icerik&amp;icerik.kat=vatanda%C5%9F/i%C5%9F+ve+kariyer/%C4%B0%C5%9F+Arama/%C4%B0%C5%9F+Arama+Teknikleri</url>
+							</item>
+							<item>
+							<label>Özel İstihdam Büroları</label>            
+							<url>https://www.turkiye.gov.tr/portal/dt?channel=icerik&amp;icerik.kat=vatanda%C5%9F/i%C5%9F+ve+kariyer/%C4%B0%C5%9F+Arama/%C3%96zel+%C4%B0stihdam+B%C3%BCrolar%C4%B1</url>
+							</item>
+							<item>
+							<label>İş ve Meslek Danışmanlığı</label>            
+							<url>https://www.turkiye.gov.tr/portal/dt?channel=icerik&amp;icerik.kat=vatanda%C5%9F/i%C5%9F+ve+kariyer/%C4%B0%C5%9F+Arama/%C4%B0%C5%9F+ve+Meslek+Dan%C4%B1%C5%9Fmanl%C4%B1%C4%9F%C4%B1</url>
+							</item>
+							<item>
+							<label>İş ve Kariyer Sınavları</label>            
+							<url>https://www.turkiye.gov.tr/portal/dt?channel=icerik&amp;icerik.kat=vatanda%C5%9F/i%C5%9F+ve+kariyer/%C4%B0%C5%9F+Arama/%C4%B0%C5%9F+ve+Kariyer+S%C4%B1navlar%C4%B1</url>
+							</item>
+        			</childs>
+      		</item>
+      		<item>
+        		<label>İstihdam Hizmetleri</label>
+       				 <childs>
+          					<item>
+							<label>Yurt İçi İstihdam</label>            
+							<url>https://www.turkiye.gov.tr/portal/dt?channel=icerik&amp;icerik.kat=vatanda%C5%9F/i%C5%9F+ve+kariyer/%C4%B0stihdam+Hizmetleri/Yurt+%C4%B0%C3%A7i+%C4%B0stihdam</url>
+						  	</item>
+						  	<item>
+							<label>İstihdam Amaçlı Projeler</label>            
+							<url>https://www.turkiye.gov.tr/portal/dt?channel=icerik&amp;icerik.kat=vatanda%C5%9F/i%C5%9F+ve+kariyer/%C4%B0stihdam+Hizmetleri/%C4%B0stihdam+Ama%C3%A7l%C4%B1+Destek+Projeleri</url>
+						  	</item>
+						  	<item>
+							<label>Özürlü ve Eski Hükümlü Alımları</label>            
+							<url>https://www.turkiye.gov.tr/portal/dt?channel=icerik&amp;icerik.kat=vatanda%C5%9F/i%C5%9F+ve+kariyer/%C4%B0stihdam+Hizmetleri/%C3%96z%C3%BCrl%C3%BC+ve+Eski+H%C3%BCk%C3%BCml%C3%BC+Al%C4%B1mlar%C4%B1</url>
+						 	</item>          
+        			</childs>
+      		</item>
+      		<item>
+        		<label>İşsizlik Sigortası</label>
+        			<childs>
+         					<item>
+							<label>İşsizlik Sigortası Ödemeleri</label>            
+							<url>https://www.turkiye.gov.tr/portal/dt?channel=icerik&amp;icerik.kat=vatanda%C5%9F/i%C5%9F+ve+kariyer/%C4%B0%C5%9Fsizlik+Sigortas%C4%B1/%C4%B0%C5%9Fsizlik+Sigortas%C4%B1+%C3%96demeleri</url>
+							</item>
+							<item>
+							<label>İşsizlik Sigortası Fonu</label>            
+							<url>https://www.turkiye.gov.tr/portal/dt?channel=icerik&amp;icerik.kat=vatanda%C5%9F/i%C5%9F+ve+kariyer/%C4%B0%C5%9Fsizlik+Sigortas%C4%B1/%C4%B0%C5%9Fsizlik+Sigortas%C4%B1+Fonu</url>
+							</item>
+        			</childs>
+      		</item>
+    	</childs>
+</item> 
+<item>
+    <label>EĞİTİM İşlemleri</label>
+	<preload_movie>egitim.swf</preload_movie>
+    	<childs>
+      		<item>
+        		<label>Okul Öncesi Eğitim</label>
+        			<childs>
+         					<item>
+							<label>Özel Eğitim</label>            
+							<url>https://www.turkiye.gov.tr/portal/dt?channel=icerik&amp;icerik.kat=vatanda%C5%9F/e%C4%9Fitim/Okul+%C3%96ncesi+E%C4%9Fitim/%C3%96zel+E%C4%9Fitim</url>
+							</item>
+							<item>
+							<label>Ana Okulları</label>            
+							<url>https://www.turkiye.gov.tr/portal/dt?channel=icerik&amp;icerik.kat=vatanda%C5%9F/e%C4%9Fitim/Okul+%C3%96ncesi+E%C4%9Fitim/Ana+Okullar%C4%B1</url>
+							</item>
+        			</childs>
+     		</item>
+      		<item>
+        		<label>İlk ve Ortaöğretim</label>
+        			<childs>
+         					<item>
+							<label>Tedavi Altındaki Çocuklar İçin Okullar</label>            
+							<url>https://www.turkiye.gov.tr/portal/dt?channel=icerik&amp;icerik.kat=vatanda%C5%9F/e%C4%9Fitim/%C4%B0lk+ve+Orta%C3%B6%C4%9Fretim/Tedavi+Alt%C4%B1nda+Bulunan+%C3%87ocuklar+i%C3%A7in+Okullar</url>
+							</item>
+							<item>
+							<label>İlk ve Ortaöğretim Sınavları</label>            
+							<url>https://www.turkiye.gov.tr/portal/dt?channel=icerik&amp;icerik.kat=vatanda%C5%9F/e%C4%9Fitim/%C4%B0lk+ve+Orta%C3%B6%C4%9Fretim/%C4%B0lk+ve+Orta%C3%B6%C4%9Fretim+S%C4%B1navlar%C4%B1</url>
+							</item>
+							<item>
+							<label>İlk ve Ortaöğretim Okulları</label>            
+							<url>https://www.turkiye.gov.tr/portal/dt?channel=icerik&amp;icerik.kat=vatanda%C5%9F/e%C4%9Fitim/%C4%B0lk+ve+Orta%C3%B6%C4%9Fretim/%C4%B0lk+ve+Orta%C3%B6%C4%9Fretim+Okullar%C4%B1</url>
+					  		</item>
+        			</childs>
+     		</item>
+      		<item>
+       			<label>Açıköğretim</label>
+					<childs>
+							<item>
+							<label>Açıköğretim Lisesi</label>
+							<url>https://www.turkiye.gov.tr/portal/dt?channel=icerik&amp;icerik.kat=vatanda%C5%9F/e%C4%9Fitim/A%C3%A7%C4%B1k+%C3%96%C4%9Fretim/A%C3%A7%C4%B1k+%C3%96%C4%9Fretim++Lisesi</url>
+							</item>
+							<item>
+							<label>Mesleki ve Teknik Açıköğretim</label>            
+							<url>https://www.turkiye.gov.tr/portal/dt?channel=icerik&amp;icerik.kat=vatanda%C5%9F/e%C4%9Fitim/A%C3%A7%C4%B1k+%C3%96%C4%9Fretim/Mesleki+ve+Teknik+A%C3%A7%C4%B1k+%C3%96%C4%9Fretim+Okulu</url>
+							</item>
+							<item>
+							<label>Açıköğretim Okulu</label>            
+							<url>https://www.turkiye.gov.tr/portal/dt?channel=icerik&amp;icerik.kat=vatanda%C5%9F/e%C4%9Fitim/A%C3%A7%C4%B1k+%C3%96%C4%9Fretim/A%C3%A7%C4%B1k+%C4%B0lk%C3%B6%C4%9Fretim+Okulu</url>
+							</item>
+							<item>
+							<label>Mesleki Açıköğretim Lisesi</label>            
+							<url>https://www.turkiye.gov.tr/portal/dt?channel=icerik&amp;icerik.kat=vatanda%C5%9F/e%C4%9Fitim/A%C3%A7%C4%B1k+%C3%96%C4%9Fretim/Mesleki+A%C3%A7%C4%B1k+%C3%96%C4%9Fretim+Lisesi</url>
+							</item>
+        			</childs>
+      		</item>
+      		<item>
+        		<label>Yükseköğretim</label>
+        			<childs>
+							<item>
+							<label>Diploma Denklik</label>            
+							<url>https://www.turkiye.gov.tr/portal/dt?channel=icerik&amp;icerik.kat=vatanda%C5%9F/e%C4%9Fitim/Y%C3%BCksek%C3%B6%C4%9Fretim/Diploma+Denklik</url>
+							</item>
+							<item>
+							<label>Tez Merkezi</label>
+							<url>https://www.turkiye.gov.tr/portal/dt?channel=icerik&amp;icerik.kat=vatanda%C5%9F/e%C4%9Fitim/Y%C3%BCksek%C3%B6%C4%9Fretim/Tez+Merkezi</url>
+							</item>
+							<item>
+							<label>Devlet ve Vakıf Üniversiteleri</label>
+							<url>https://www.turkiye.gov.tr/portal/dt?channel=icerik&amp;icerik.kat=vatanda%C5%9F/e%C4%9Fitim/Y%C3%BCksek%C3%B6%C4%9Fretim/Devlet+ve+Vak%C4%B1f+%C3%9Cniversiteleri</url>
+							</item>
+							<item>
+							<label>Kültürel Değişim Programları</label>
+							<url>https://www.turkiye.gov.tr/portal/dt?channel=icerik&amp;icerik.kat=vatanda%C5%9F/e%C4%9Fitim/Y%C3%BCksek%C3%B6%C4%9Fretim/K%C3%BClt%C3%BCrel+De%C4%9Fi%C5%9Fim+Programlar%C4%B1</url>
+							</item>
+        			</childs>
+      		</item>
+      		<item>
+        		<label>ÖSYM</label>
+        			<childs>
+							<item>
+							<label>Aday Portalı</label>
+							<url>https://www.turkiye.gov.tr/portal/dt?channel=icerik&amp;icerik.kat=vatanda%C5%9F/e%C4%9Fitim/%C3%96SYM/Aday+Portal%C4%B1</url>
+							</item>
+							<item>
+							<label>Sınav Sonuçları</label>
+							<url>https://www.turkiye.gov.tr/portal/dt?channel=icerik&amp;icerik.kat=vatanda%C5%9F/e%C4%9Fitim/%C3%96SYM/S%C4%B1nav+Sonu%C3%A7lar%C4%B1</url>
+							</item>
+							<item>
+							<label>Sınav Takvimi</label>
+							<url>https://www.turkiye.gov.tr/portal/dt?channel=icerik&amp;icerik.kat=vatanda%C5%9F/e%C4%9Fitim/%C3%96SYM/S%C4%B1nav+Takvimi</url>
+							</item>
+        			</childs>
+      		</item>
+      		<item>
+       			<label>Burslar</label>
+       				<childs>
+							<item>
+							<label>Burs Veren Vakıflar</label>
+							<url>https://www.turkiye.gov.tr/portal/dt?channel=icerik&amp;icerik.kat=vatanda%C5%9F/e%C4%9Fitim/Burslar/Burs+Veren+Vak%C4%B1flar</url>
+							</item>
+							<item>
+							<label>Yurt İçi Burslar</label>
+							<url>https://www.turkiye.gov.tr/portal/dt?channel=icerik&amp;icerik.kat=vatanda%C5%9F/e%C4%9Fitim/Burslar/Yurt+%C4%B0%C3%A7i+Burslar</url>
+							</item>
+							<item>
+							<label>Yurt Dışı Burslar</label>
+							<url>https://www.turkiye.gov.tr/portal/dt?channel=icerik&amp;icerik.kat=vatanda%C5%9F/e%C4%9Fitim/Burslar/Yurt+D%C4%B1%C5%9F%C4%B1+Burslar</url>
+							</item>
+							<item>
+							<label>Yükseköğretim Bursları</label>            
+							<url>https://www.turkiye.gov.tr/portal/dt?channel=icerik&amp;icerik.kat=vatanda%C5%9F/e%C4%9Fitim/Burslar/Y%C3%BCksek%C3%B6%C4%9Fretim+Burslar%C4%B1</url>
+							</item>
+        			</childs>
+      		</item>
+      		<item>
+        		<label>Kredi ve Yurtlar</label>
+        			<childs>
+          					<item>
+							<label>Yurt Hizmetleri</label>
+							<url>https://www.turkiye.gov.tr/portal/dt?channel=icerik&amp;icerik.kat=vatanda%C5%9F/e%C4%9Fitim/Kredi+ve+Yurtlar/Yurt+Hizmetleri</url>
+							</item>
+							<item>
+							<label>Kredi - Burs Hizmetleri</label>
+							<url>https://www.turkiye.gov.tr/portal/dt?channel=icerik&amp;icerik.kat=vatanda%C5%9F/e%C4%9Fitim/Kredi+ve+Yurtlar/Kredi+-+Burs+Hizmetleri</url>
+							</item>
+        			</childs>
+      		</item>
+			<item>
+				<label>Polis Eğitim Birimleri</label>
+					<childs>
+			  				<item>
+							<label>Meslek Eğitim Merkezi Müdürlükleri</label>            
+							<url>https://www.turkiye.gov.tr/portal/dt?channel=icerik&amp;icerik.kat=vatanda%C5%9F/e%C4%9Fitim/Polis+E%C4%9Fitim+Birimleri/Polis+Meslek+E%C4%9Fitim+Merkezi+M%C3%BCd%C3%BCrl%C3%BCkleri</url>
+							</item>
+							<item>
+							<label>Polis Akademisi Başkanlığı</label>            
+							<url>https://www.turkiye.gov.tr/portal/dt?channel=icerik&amp;icerik.kat=vatanda%C5%9F/e%C4%9Fitim/Polis+E%C4%9Fitim+Birimleri/Polis+Akademisi+Ba%C5%9Fkanl%C4%B1%C4%9F%C4%B1</url>
+							</item>
+							<item>
+							<label>Polis Koleji Müdürlüğü</label>            
+							<url>https://www.turkiye.gov.tr/portal/dt?channel=icerik&amp;icerik.kat=vatanda%C5%9F/e%C4%9Fitim/Polis+E%C4%9Fitim+Birimleri/Polis+Koleji+M%C3%BCd%C3%BCrl%C3%BC%C4%9F%C3%BC</url>
+							</item>
+					</childs>
+		  	</item>
+      		<item>
+        		<label>Diğer Eğitim Programları</label>
+        			<childs>
+          					<item>
+							<label>Mesleki Eğitim Bilgi Merkezi</label>
+							<url>https://www.turkiye.gov.tr/portal/dt?channel=icerik&amp;icerik.kat=vatanda%C5%9F/e%C4%9Fitim/Di%C4%9Fer+E%C4%9Fitim+Programlar%C4%B1/Meslek%C3%AE+E%C4%9Fitim+Bilgi+Merkezi</url>
+							</item>
+							<item>
+							<label>Sivil Savunma Eğitimleri</label>
+							<url>https://www.turkiye.gov.tr/portal/dt?channel=icerik&amp;icerik.kat=vatanda%C5%9F/e%C4%9Fitim/Di%C4%9Fer+E%C4%9Fitim+Programlar%C4%B1/Sivil+Savunma+E%C4%9Fitimleri</url>
+							</item>
+							<item>
+							<label>TSE Eğitim ve Sınav Programları</label>
+							<url>https://www.turkiye.gov.tr/portal/dt?channel=icerik&amp;icerik.kat=vatanda%C5%9F/e%C4%9Fitim/Di%C4%9Fer+E%C4%9Fitim+Programlar%C4%B1/TSE+E%C4%9Fitim+ve+S%C4%B1nav+Programlar%C4%B1</url>
+							</item>
+							<item>
+							<label>Halk Eğitim Merkezleri</label>
+							<url>https://www.turkiye.gov.tr/portal/dt?channel=icerik&amp;icerik.kat=vatanda%C5%9F/e%C4%9Fitim/Di%C4%9Fer+E%C4%9Fitim+Programlar%C4%B1/Halk+E%C4%9Fitim+Merkezleri+ve+Meslek%C3%AE+E%C4%9Fitim+Merkezleri</url>
+							</item>
+					</childs>
+			</item>
+      		<item>
+        		<label>Kütüphaneler</label>
+        			<childs>
+							<item>
+							<label>Türkiye ve Dünyadaki Kütüphaneler</label>
+							<url>https://www.turkiye.gov.tr/portal/dt?channel=icerik&amp;icerik.kat=vatanda%C5%9F/e%C4%9Fitim/K%C3%BCt%C3%BCphaneler/T%C3%BCrkiye+ve+D%C3%BCnyadaki+K%C3%BCt%C3%BCphaneler</url>
+							</item>
+							<item>
+							<label>Katalog Tarama</label>
+							<url>https://www.turkiye.gov.tr/portal/dt?channel=icerik&amp;icerik.kat=vatanda%C5%9F/e%C4%9Fitim/K%C3%BCt%C3%BCphaneler/Katalog+Tarama</url>
+							</item>
+							<item>
+							<label>Türkiye'de Süreli Yayınlar</label>
+							<url>https://www.turkiye.gov.tr/portal/dt?channel=icerik&amp;icerik.kat=vatanda%C5%9F/e%C4%9Fitim/K%C3%BCt%C3%BCphaneler/T%C3%BCrkiye%27de+S%C3%BCreli+Yay%C4%B1nlar</url>
+							</item>
+        			</childs>
+      		</item>
+    </childs>
+</item>
+<item>
+    <label>ULAŞIM İşlemleri</label>
+	<preload_movie>ulasim.swf</preload_movie>
+    	<childs>
+			<item>
+					<label>Demir Yolu Ulaşımı</label>
+						<childs>
+				  			<item>
+							<label>Vagon Çeşitleri</label>            
+							<url>https://www.turkiye.gov.tr/portal/dt?channel=icerik&amp;icerik.kat=vatanda%C5%9F/seyahat+ve+turizm/Demir+Yolu+Ula%C5%9F%C4%B1m%C4%B1/Vagon+%C3%87e%C5%9Fitleri</url>
+							</item>
+							<item>
+							<label>Demir Yolları Haritası</label>
+							<url>https://www.turkiye.gov.tr/portal/dt?channel=icerik&amp;icerik.kat=vatanda%C5%9F/seyahat+ve+turizm/Demir+Yolu+Ula%C5%9F%C4%B1m%C4%B1/Demir+Yollar%C4%B1+Haritas%C4%B1</url>
+							</item>
+							<item>
+							<label>Sefer Bilgi ve Tarihleri</label>
+							<url>https://www.turkiye.gov.tr/portal/dt?channel=icerik&amp;icerik.kat=vatanda%C5%9F/seyahat+ve+turizm/Demir+Yolu+Ula%C5%9F%C4%B1m%C4%B1/Sefer+Bilgi+ve+Tarihleri</url>
+							</item>
+							<item>
+							<label>Bilet Rezervasyon</label>
+							<url>https://www.turkiye.gov.tr/portal/dt?channel=icerik&amp;icerik.kat=vatanda%C5%9F/seyahat+ve+turizm/Demir+Yolu+Ula%C5%9F%C4%B1m%C4%B1/Bilet+Rezervasyon</url>
+							</item>
+							<item>
+							<label>Sefer Ücret Tarifeleri</label>
+							<url>https://www.turkiye.gov.tr/portal/dt?channel=icerik&amp;icerik.kat=vatanda%C5%9F/seyahat+ve+turizm/Demir+Yolu+Ula%C5%9F%C4%B1m%C4%B1/Sefer+%C3%9Ccret+Tarifeleri</url>
+							</item>
+						</childs>
+			  </item>  
+			<item>
+					<label>Karayolu Ulaşımı</label>
+						<childs>
+				  			<item>
+							<label>Kara Yolları Haritası</label>
+							<url>https://www.turkiye.gov.tr/portal/dt?channel=icerik&amp;icerik.kat=VATANDA%C5%9E/Seyahat+ve+Turizm/Kara+Yolu+Ula%C5%9F%C4%B1m%C4%B1/Kara+Yollar%C4%B1+Haritas%C4%B1</url>
+							</item>
+							<item>
+							<label>Yol Bilgi Hizmetleri</label>
+							<url>https://www.turkiye.gov.tr/portal/dt?channel=icerik&amp;icerik.kat=VATANDA%C5%9E/Seyahat+ve+Turizm/Kara+Yolu+Ula%C5%9F%C4%B1m%C4%B1/Yol+Bilgi+Hizmetleri</url>
+							</item>
+						</childs>
+			  </item>
+			<item>
+				<label>Yurt Dışı İşlemleri</label>
+					<childs>
+				  			<item>
+							<label>Türkiye'deki Dış Temsilcilikler</label>
+							<url>https://www.turkiye.gov.tr/portal/dt?channel=icerik&amp;icerik.kat=vatanda%C5%9F/seyahat+ve+turizm/T%C3%BCrk+Vatanda%C5%9Flar%C4%B1+i%C3%A7in+Yurt+D%C4%B1%C5%9F%C4%B1+%C4%B0%C5%9Flemleri/T%C3%BCrkiye%27de+Bulunan+D%C4%B1%C5%9F+Temsilcilikler</url>
+							</item>
+							<item>
+							<label>Pasaport İşlemleri</label>
+							<url>https://www.turkiye.gov.tr/portal/dt?channel=icerik&amp;icerik.kat=vatanda%C5%9F/seyahat+ve+turizm/T%C3%BCrk+Vatanda%C5%9Flar%C4%B1+i%C3%A7in+Yurt+D%C4%B1%C5%9F%C4%B1+%C4%B0%C5%9Flemleri/Pasaport+%C4%B0%C5%9Flemleri</url>
+							</item>
+							<item>
+							<label>Vize ve Giriş İşlemleri</label>
+							<url>https://www.turkiye.gov.tr/portal/dt?channel=icerik&amp;icerik.kat=vatanda%C5%9F/seyahat+ve+turizm/T%C3%BCrk+Vatanda%C5%9Flar%C4%B1+i%C3%A7in+Yurt+D%C4%B1%C5%9F%C4%B1+%C4%B0%C5%9Flemleri/Vize+ve+Giri%C5%9F+%C4%B0%C5%9Flemleri</url>
+							</item>
+							<item>
+							<label>Yurt Dışı Temsilciliklerimiz</label>
+							<url>https://www.turkiye.gov.tr/portal/dt?channel=icerik&amp;icerik.kat=vatanda%C5%9F/seyahat+ve+turizm/T%C3%BCrk+Vatanda%C5%9Flar%C4%B1+i%C3%A7in+Yurt+D%C4%B1%C5%9F%C4%B1+%C4%B0%C5%9Flemleri/Yurt+D%C4%B1%C5%9F%C4%B1+Temsilciliklerimiz</url>
+						  </item>
+					</childs>
+			</item>
+    	</childs>
+</item>
+<item>
+    <label>HUKUKİ İşlemler</label>
+	<preload_movie>hukuk.swf</preload_movie>
+		<childs>
+				<item>
+					<label>Hukuki İşlemler</label>
+						<childs>
+								<item>
+								<label>Adli Sicil Kaydı İşlemleri</label>
+								<url>https://www.turkiye.gov.tr/portal/dt?channel=icerik&amp;icerik.kat=vatanda%C5%9F/yasal+i%C5%9Flemler%2C+haklar+ve+korunmas%C4%B1/Hukuki+%C4%B0%C5%9Flemler/Adli+Sicil+Kayd%C4%B1+%C4%B0%C5%9Flemleri</url>
+								</item>
+								<item>
+								<label>AİHM Karar Arama</label>
+								<url>https://www.turkiye.gov.tr/portal/dt?channel=icerik&amp;icerik.kat=vatanda%C5%9F/yasal+i%C5%9Flemler%2C+haklar+ve+korunmas%C4%B1/Hukuki+%C4%B0%C5%9Flemler/A%C4%B0HM+Karar+Arama</url>
+								</item>
+								<item>
+								<label>Mahkeme Karar Sorgulama</label>
+								<url>https://www.turkiye.gov.tr/portal/dt?channel=icerik&amp;icerik.kat=vatanda%C5%9F/yasal+i%C5%9Flemler%2C+haklar+ve+korunmas%C4%B1/Hukuki+%C4%B0%C5%9Flemler/Mahkeme+Karar+Sorgulama+%C4%B0%C5%9Flemleri</url>
+							  </item>
+						</childs>
+			  </item>
+				<item>
+					<label>Seçmenlik İşlemleri</label>
+						<childs>
+								<item>
+								<label>Seçim Sonuçları</label>
+								<url>https://www.turkiye.gov.tr/portal/dt?channel=icerik&amp;icerik.kat=vatanda%C5%9F/yasal+i%C5%9Flemler%2C+haklar+ve+korunmas%C4%B1/Se%C3%A7menlik+%C4%B0%C5%9Flemleri/Se%C3%A7im+Sonu%C3%A7lar%C4%B1</url>
+								</item>
+								<item>
+								<label>Seçmen Listesine İtiraz</label>
+								<url>https://www.turkiye.gov.tr/portal/dt?channel=icerik&amp;icerik.kat=vatanda%C5%9F/yasal+i%C5%9Flemler%2C+haklar+ve+korunmas%C4%B1/Se%C3%A7menlik+%C4%B0%C5%9Flemleri/Se%C3%A7men+Listesine+%C4%B0tiraz</url>
+								</item>
+								<item>
+								<label>Seçmen İşlemleri</label>
+								<url>https://www.turkiye.gov.tr/portal/dt?channel=icerik&amp;icerik.kat=vatanda%C5%9F/yasal+i%C5%9Flemler%2C+haklar+ve+korunmas%C4%B1/Se%C3%A7menlik+%C4%B0%C5%9Flemleri/Se%C3%A7men+%C4%B0%C5%9Flemleri</url>
+								</item>
+								<item>
+								<label>Seçmen Bilgi Sorgulama</label>
+								<url>https://www.turkiye.gov.tr/portal/dt?channel=icerik&amp;icerik.kat=vatanda%C5%9F/yasal+i%C5%9Flemler%2C+haklar+ve+korunmas%C4%B1/Se%C3%A7menlik+%C4%B0%C5%9Flemleri/Se%C3%A7men+Bilgi+Sorgulama</url>
+								</item>
+						</childs>
+				</item>  
+				<item>
+					<label>Tüketicinin Korunması</label>
+						<childs>
+								<item>
+								<label>Ticari Reklam ve İlanlar</label>
+								<url>https://www.turkiye.gov.tr/portal/dt?channel=icerik&amp;icerik.kat=vatanda%C5%9F/yasal+i%C5%9Flemler%2C+haklar+ve+korunmas%C4%B1/T%C3%BCketicinin+Korunmas%C4%B1/Ticari+Reklam+ve+%C4%B0lanlar</url>
+								</item>
+								<item>
+								<label>Tüketici Hakları</label>
+								<url>https://www.turkiye.gov.tr/portal/dt?channel=icerik&amp;icerik.kat=vatanda%C5%9F/yasal+i%C5%9Flemler%2C+haklar+ve+korunmas%C4%B1/T%C3%BCketicinin+Korunmas%C4%B1/T%C3%BCketici+Haklar%C4%B1</url>
+								</item>
+								<item>
+								<label>İhbar ve Şikayetler</label>
+								<url>https://www.turkiye.gov.tr/portal/dt?channel=icerik&amp;icerik.kat=vatanda%C5%9F/yasal+i%C5%9Flemler%2C+haklar+ve+korunmas%C4%B1/T%C3%BCketicinin+Korunmas%C4%B1/%C4%B0hbar+ve+%C5%9Eikayetler</url>
+								</item>
+						</childs>
+				</item>
+		</childs>
+</item>
+<item>
+    <label>NÜFUS İşlemleri</label>
+	<preload_movie>nufus.swf</preload_movie>
+		<childs>
+			<item>
+				<label>Doğum Bildirim ve Kayıt</label>
+					<childs>
+							<item>
+							<label>Aile Kütüğüne Kaydı</label>
+							<url>https://www.turkiye.gov.tr/portal/dt?channel=icerik&amp;icerik.kat=vatanda%C5%9F/do%C4%9Fum/Do%C4%9Fum+Bildirimi+ve+Aile+Tesciline+Kay%C4%B1t/Do%C4%9Fumun+Aile+K%C3%BCt%C3%BC%C4%9F%C3%BCne+Tescili</url>
+							</item>
+							<item>
+							<label>Tutanaklarının Düzenlenmesi</label>
+							<url>https://www.turkiye.gov.tr/portal/dt?channel=icerik&amp;icerik.kat=vatanda%C5%9F/do%C4%9Fum/Do%C4%9Fum+Bildirimi+ve+Aile+Tesciline+Kay%C4%B1t/Do%C4%9Fum+Tutanaklar%C4%B1n%C4%B1n+D%C3%BCzenlenmesi</url>
+							</item>
+							<item>
+							<label>Yurt Dışındaki Doğumlar</label>
+							<url>https://www.turkiye.gov.tr/portal/dt?channel=icerik&amp;icerik.kat=vatanda%C5%9F/do%C4%9Fum/Do%C4%9Fum+Bildirimi+ve+Aile+Tesciline+Kay%C4%B1t/Yurt+D%C4%B1%C5%9F%C4%B1ndaki+Do%C4%9Fumlar</url>
+							</item>
+							<item>
+							<label>Bildirim Şekli</label>
+							<url>https://www.turkiye.gov.tr/portal/dt?channel=icerik&amp;icerik.kat=vatanda%C5%9F/do%C4%9Fum/Do%C4%9Fum+Bildirimi+ve+Aile+Tesciline+Kay%C4%B1t/Bildirim+%C5%9Eekli</url>
+							</item>
+							<item>
+							<label>Bildirim Yükümlülüğü</label>
+							<url>https://www.turkiye.gov.tr/portal/dt?channel=icerik&amp;icerik.kat=vatanda%C5%9F/do%C4%9Fum/Do%C4%9Fum+Bildirimi+ve+Aile+Tesciline+Kay%C4%B1t/Bildirim+Y%C3%BCk%C3%BCml%C3%BCl%C3%BC%C4%9F%C3%BC</url>
+							</item>
+							<item>
+							<label>Evlilik Dışı Doğumların Kaydı</label>
+							<url>https://www.turkiye.gov.tr/portal/dt?channel=icerik&amp;icerik.kat=vatanda%C5%9F/do%C4%9Fum/Do%C4%9Fum+Bildirimi+ve+Aile+Tesciline+Kay%C4%B1t/Evlilik+D%C4%B1%C5%9F%C4%B1+Do%C4%9Fumlar%C4%B1n+N%C3%BCfusa+Kayd%C4%B1</url>
+							</item>
+							<item>
+							<label>Bildirilen Çocukların Vatandaşlığı</label>
+							<url>https://www.turkiye.gov.tr/portal/dt?channel=icerik&amp;icerik.kat=vatanda%C5%9F/do%C4%9Fum/Do%C4%9Fum+Bildirimi+ve+Aile+Tesciline+Kay%C4%B1t/Bildirilen+%C3%87ocuklar%C4%B1n+Vatanda%C5%9Fl%C4%B1%C4%9F%C4%B1</url>
+							</item>
+							<item>
+							<label>Bildirim Zorunluluğu ve Süresi</label>
+							<url>https://www.turkiye.gov.tr/portal/dt?channel=icerik&amp;icerik.kat=vatanda%C5%9F/do%C4%9Fum/Do%C4%9Fum+Bildirimi+ve+Aile+Tesciline+Kay%C4%B1t/Bildirim+Zorunlulu%C4%9Fu+ve+S%C3%BCresi</url>
+							</item>
+					</childs>
+			</item>
+			<item>
+				<label>Doğum Öncesi ve Sonrası İzinler</label>
+					<childs>
+							<item>
+							<label>Doğum İzni</label>
+							<url>https://www.turkiye.gov.tr/portal/dt?channel=icerik&amp;icerik.kat=vatanda%C5%9F/do%C4%9Fum/Do%C4%9Fum+%C3%96ncesi+ve+Sonras%C4%B1+%C4%B0zinleri/Do%C4%9Fum+%C4%B0zni</url>
+							</item>
+							<item>
+							<label>Süt İzni</label>
+							<url>https://www.turkiye.gov.tr/portal/dt?channel=icerik&amp;icerik.kat=vatanda%C5%9F/do%C4%9Fum/Do%C4%9Fum+%C3%96ncesi+ve+Sonras%C4%B1+%C4%B0zinleri/S%C3%BCt+%C4%B0zni</url>
+							</item>
+					</childs>
+			</item>
+			<item>
+				<label>Aile Planlaması</label>
+					<childs>
+							<item>
+							<label>Aile Planlama Merkezleri</label>
+							<url>https://www.turkiye.gov.tr/portal/dt?channel=icerik&amp;icerik.kat=vatanda%C5%9F/do%C4%9Fum/Aile+Planlamas%C4%B1/Aile+Planlamas%C4%B1+Merkezleri</url>
+							</item>
+							<item>
+							<label>Tüp Bebek Merkezleri</label>
+							<url>https://www.turkiye.gov.tr/portal/dt?channel=icerik&amp;icerik.kat=vatanda%C5%9F/do%C4%9Fum/Aile+Planlamas%C4%B1/Ruhsatl%C4%B1+T%C3%BCp+Bebek+Merkezleri</url>
+							</item>
+					</childs>
+			</item>  
+		</childs>
+</item>
+<item>
+    <label>BAŞBAKANLIK İLETİŞİM MERKEZİ</label>
+	<preload_movie>bimer.swf</preload_movie>
+		<childs>
+			  <item>
+				<label>BİMER BAŞVURU</label>
+				<url>https://www.turkiye.gov.tr/portal/dt?provider=HomePageContainer&amp;channel=icerik</url>
+			  </item>
+			  <item>
+			  <label>BİMER BAŞVURU SORGULAMA</label>
+			  <url>https://www.turkiye.gov.tr/portal/dt?provider=HomePageContainer&amp;channel=icerik</url>
+			  </item>
+		</childs>
+</item>
+</config>

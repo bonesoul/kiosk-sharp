@@ -1,0 +1,36 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="kiosksharp.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="XmlConfig" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">config.xml</Value>
+    </Setting>
+    <Setting Name="swf_menu" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">menu_geri.swf</Value>
+    </Setting>
+    <Setting Name="swf_loading" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">loading.swf</Value>
+    </Setting>
+    <Setting Name="swf_keyboard" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">klavye.swf</Value>
+    </Setting>
+    <Setting Name="swf_intro" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">intro.swf</Value>
+    </Setting>
+    <Setting Name="disable_cursor" Type="System.Boolean" Scope="Application">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="disable_intro" Type="System.Boolean" Scope="Application">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="preload_movie_timeout" Type="System.Int32" Scope="Application">
+      <Value Profile="(Default)">20</Value>
+    </Setting>
+    <Setting Name="system_lock" Type="System.Boolean" Scope="Application">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="navigation_timeout" Type="System.Int32" Scope="Application">
+      <Value Profile="(Default)">15</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
